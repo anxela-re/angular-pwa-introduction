@@ -33,7 +33,7 @@
   "dataGroups": [
     {
       "name": "images-api",
-      "urls": ["http://picsum.photos/**"],
+      "urls": ["https://picsum.photos/**"],
       "cacheConfig": {
         "maxSize": 10,
         "maxAge": "1h",
